@@ -1,0 +1,36 @@
+body{ 
+    text-align: center; background: #c5bab846; font-size: 20px ;font-family: sans-serif; background-image:url();
+}
+
+.deneme{
+    color: #1572A1;
+}
+a{ color:#121212) ;  ; background:none; font-style: italic;}
+.paragraflinki{ color: rgb(8, 8, 8);}
+.hanza{color: black; background: space; font-style: normal;}
+/*h3 başlıkları vizyon ve misyon kalın sarı yapılacak*/
+.sarıbaslık{
+    color:#b15569; font-size: 51px; ;
+
+}
+/*h2 baslıkları anasayfa hakkımızda ürünlermiz*/
+.sitealtbaslıkları{
+    
+}
+/* paragraf yazı tipi*/
+
+/***/
+.urunler{ width: 400;}
+
+#piyano{
+    
+}
+
+
+
+/*kutu denemesi */
+.kutu{width: 220px;
+    height:200px;
+    border: 2px solid #000;
+    background-color:none
+    ;
